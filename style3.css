@@ -1,0 +1,173 @@
+*{margin: 0;
+padding: 0;
+text-align: justify;
+}
+body{
+    background: #3165b0;
+}
+section{
+    padding: 10px 100px;
+    background-color:lightblue;
+    color: blanchedalmond;
+}
+.left h1{
+    color:white;
+    font-size: 50px;
+
+}
+
+.left h1 span{
+    font-size: 30px;
+    color: yellow;
+}
+
+.btn{
+    background-color:aliceblue;
+    color: blue;
+    font-size: 20px;
+    position:absolute;
+    top: -43px;
+    right: 100px;
+    padding: 10px 15px;
+
+}
+.menu{
+    position: relative;
+}
+.menu ul{
+
+    text-align: center; 
+    display: flex;
+    justify-content: space-between;
+    background-color: #6fa5f2;
+    list-style:none ;
+    padding: 10px 100px;    
+}
+
+.menu ul li a{
+    color: white;
+    padding: 10px 30px;
+    text-transform: uppercase;
+}
+footer{
+    display: flex;
+    padding: 30px 100px;
+    justify-content: space-between;
+    background: #0d4aa1;
+}
+.banner-left{
+    width: 68%;
+}
+.menu ul li a:hover, .menu ul li a:focus{
+    background-color:black;
+    text-decoration: underline;
+    
+}
+.left1 h2{
+    margin-bottom: 10px;
+}
+.left1 p{
+    color: rgb(225, 240, 13);
+}
+.try{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.btn1{
+    padding: 10px;
+    text-align:center ;
+    background-color: rgb(184, 216, 110);
+    color: aliceblue;
+    border: 0px;
+    margin: 5px;
+    padding-right: 10px;
+    margin-right: 10px;
+
+}
+.btn-holder{
+    text-align: right;
+}
+.icon{
+    background-color: aliceblue;
+    width: 30%;
+    text-align: center;
+    padding: 10px
+}
+
+.image{
+    width: 28%;
+}
+
+.medium{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 100px;
+    background: #fff;
+}
+
+.middle-left{
+    width: 60%;
+}
+
+.middle-left h2{
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+.middle-left p{
+    margin-bottom: 30px;
+}
+
+.middle-right{
+    width: 36%;
+}
+
+.middle-right h1{
+    margin-bottom: 10px;
+}
+.hello{
+    display: flex;
+    justify-content: space-between;
+}
+.texts{
+    width: 55%;
+}
+.asdf{
+    width: 40%;
+}
+
+.hello p img{
+    vertical-align: middle;
+}
+
+.btn2{
+
+    float:right;
+    color: aliceblue;
+    background-color: blueviolet;
+    padding: 5px 15px;
+}
+
+.hii{
+    display: flex;
+}
+
+.happy{
+    display: flex;
+    background-color: aliceblue;
+    justify-content: space-between;
+    padding: 10px 100px;
+    background: #fff;
+}
+
+.bhumika{
+    background-color: #73a8f5;
+    width: 30%;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.bhumika h1{
+    margin-bottom: 10px;
+}
